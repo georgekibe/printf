@@ -100,5 +100,4 @@ int print_base16_upper_lower(va_list arg, char *representation)
 	_puts(s);
 	cont = _strlen(s);
 	return (cont);
-
 }
