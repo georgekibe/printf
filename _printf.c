@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *_printf - printf
+ *_printf - prints an output according to the formart
  *@format: const char pointer
  *Description: this functions implement some functions of printf
  *Return: num of characteres printed
